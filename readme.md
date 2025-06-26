@@ -572,10 +572,10 @@ Os testes foram escritos utilizando o framework Jest e a biblioteca Supertest pa
 
 A execução dos testes mais recentes resultou em:
 
-* **Test Suites:** 1 failed, 3 passed, 4 total
-* **Tests:** 2 failed, 31 passed, 33 total
+* **Test Suites:** 4 passed, 4 total
+* **Tests:**  33 passed, 33 total
 * **Snapshots:** 0 total
-* **Time:** 5.097 s
+* **Time:** 4.882 s
     *(**Nota:** Esta é a saída de um dos seus testes anteriores. Ao executar os testes novamente, espere que todos os testes passem após as correções.)*
 
 ### Cobertura de Código
