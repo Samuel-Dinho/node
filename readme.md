@@ -532,8 +532,6 @@ Siga os passos abaixo para configurar e rodar o projeto localmente.
     ```
     O servidor estará rodando em `http://localhost:3000`. Você pode usar ferramentas como Postman ou Insomnia para testar os endpoints da API.
 
----
-````
 ## 7. Documentação de Testes
 
 Esta seção detalha os testes automatizados desenvolvidos para o sistema, garantindo a qualidade e a funcionalidade das APIs.
@@ -586,3 +584,6 @@ Para gerar e visualizar o relatório de cobertura de código, siga os passos:
 
 1.  Execute o comando: `npm test -- --coverage` ou `jest --coverage`.
 2.  Após a execução, abra o arquivo `coverage/lcov-report/index.html` em seu navegador.
+
+---
+````
