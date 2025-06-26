@@ -584,5 +584,3 @@ Para gerar e visualizar o relatório de cobertura de código, siga os passos:
 
 1.  Execute o comando: `npm test -- --coverage` ou `jest --coverage`.
 2.  Após a execução, abra o arquivo `coverage/lcov-report/index.html` em seu navegador.
-
----
